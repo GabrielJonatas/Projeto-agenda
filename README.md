@@ -1,5 +1,9 @@
 # Projeto agenda com express, mongoDB e nodeJS
 
+![Pagina inicial](./listagem.png)
+![Login e registro](./login.png)
+![Contato](./contato.png)
+
 Para colocar em prática os conteudos de node, express e mongoDB do curso de JavaScript e Typescript do professor Luiz Otávio Miranda da Udemy, foi proposto o projeto Agenda. O projeto trabalha com front-end utilizando ejs e o framework bootstrap e back-end, utilizando o framework express, nodeJS e banco de dados NOSQL mongoDB.
 
 O projeto consiste em uma agenda com sistema de login:
